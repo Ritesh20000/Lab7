@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-//Writting a program to find reverse of any number
+//function to find reverse
 int foo(int n,int nnt){
 //nnt is nn't as in the memen't(s)
 	if(n==0){
